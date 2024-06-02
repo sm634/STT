@@ -1,0 +1,4 @@
+Some link sources for how to open source projects and execute them:
+	Starting open source projects:
+		1. https://opensource.guide/starting-a-project/
+		 
