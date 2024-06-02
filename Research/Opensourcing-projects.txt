@@ -1,0 +1,8 @@
+Some link sources for how to open source projects and execute them:
+	Starting open source projects:
+	
+	1. Starting: https://opensource.guide/starting-a-project/
+	2. Contribute to OS projects: https://opensource.guide/how-to-contribute/
+	
+	Collaboration:
+		1. Github, readme guide: https://www.makeareadme.com/
